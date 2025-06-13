@@ -6,7 +6,7 @@ Currently working on Agentic AI and Industrial IoT systems in Pharma.
 
 ## 💼 Professional Snapshot
 - 💻 12+ years in Industrial Automation & Digital Transformation
-- 🧠 System Architect for Bio4C Suite @ Merck
+- 🧠 System Architect for Bio4C Suite @ Merck KGaA
 - 🛠️ MES Design | Edge Computing | Containerized PLC Systems
 
 ## 🧩 Technologies I Work With
@@ -24,5 +24,4 @@ Currently working on Agentic AI and Industrial IoT systems in Pharma.
 | [Industrial IoT Monitor](#) | Metrics collector with Grafana dashboards | Node-RED, Prometheus |
 
 ## 📫 Get in Touch
-- 📧 sanoopgr8@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanoopj/)
