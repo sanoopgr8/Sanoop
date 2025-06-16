@@ -25,3 +25,5 @@ Currently working on Agentic AI and Industrial IoT systems in Pharma.
 
 ## 📫 Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanoopj/)
+
+DM me for consulation
