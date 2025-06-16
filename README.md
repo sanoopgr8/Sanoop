@@ -13,7 +13,7 @@ Currently working on Agentic AI and Industrial IoT systems in Pharma.
 - 🐳 Docker, Podman
 - 🌩️ AWS (EKS, S3, EC2, Batch)
 - 📦 Codesys, WinCC, TIA Portal
-- 🔐 Security: IAM, Secrets Management
+- 🔐 Security: IAM, Secrets Management, Certificate Management
 - 📈 Grafana, Prometheus, cAdvisor, Telegraf
 
 ## 📂 Featured Projects
