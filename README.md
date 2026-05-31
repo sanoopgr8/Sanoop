@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Sanoop
 
 ## 🔧 What I Do
-🚀 System Architect | ☁️ Cloud & IoT Enthusiast | 🏭 Industrial Automation Expert  | Agentic AI & TinyML
-Currently working on Agentic AI and Industrial IoT systems in Pharma.
+🚀 Head - Digital Manufacturing | System Architect | ☁️ Cloud & IoT Enthusiast | 🏭 Industrial Automation Expert  | Agentic AI & TinyML
+Currently working on Agentic AI and Industrial IoT systems in Automotive & Pharma.
 
 ## 💼 Professional Snapshot
-- 💻 12+ years in Industrial Automation & Digital Transformation
-- 🧠 System Architect for Bio4C Suite @ Merck KGaA
+- 💻 14+ years in Industrial Automation & Digital Transformation
+- 🧠 Head of Digital Manufacturing @ Ather Energy, Ex System Architect for Bio4C Suite @ Merck KGaA
 - 🛠️ MES Design | Edge Computing | Containerized PLC Systems
 
 ## 🧩 Technologies I Work With
